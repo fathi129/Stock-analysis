@@ -17,7 +17,12 @@ Using VBA, the code was developed to check the total volume and returns of the D
 ### Running All the Stocks Analysis using Original code:
 In order to run the analysis on all the stocks, we need to create an array list for stocks named tickers; using nested for loops, we need to calculate the volumes and returns for each ticker. For the outer loop, we use the index of the ticker, and inner loop, we have a row count of the data, so for each ticker, the code has to run through the entire worksheet, which increases the run time of the code.
 ![image](https://github.com/fathi129/Stock-analysis/blob/master/StockAnalysis_output/OriginalCode.png)
+### Comparing 2017 and 2018 Stock Analysis Data
+Based on the results of the analysis of the stocks categories we can see that 2017 has successful return as 11 out of 12 major stocks has positive returns where as in 2018 we can see only 2 out of the 12 stocks has positive returns.So more people would have been profited in 2017.
 ![image](https://github.com/fathi129/Stock-analysis/blob/master/StockAnalysis_output/AllStocksAnalysis2017.png)![image](https://github.com/fathi129/Stock-analysis/blob/master/StockAnalysis_output/AllStocksAnalysis2018.png)
+The below screenshots shows the run time for both the years using original code.
+![image](https://github.com/fathi129/Stock-analysis/blob/master/StockAnalysis_output/Performance_AllStockAnalysis2017.png)![image](https://github.com/fathi129/Stock-analysis/blob/master/StockAnalysis_output/Performance_AllStockAnalysis2018.png)
+
 
 
 
