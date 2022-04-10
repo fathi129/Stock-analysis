@@ -55,7 +55,7 @@ In this analysis,the values are color coded using static and conditional formatt
 - It avoids nested for loops so we no need to switch back and forth the worksheet,It used single variable to access all the data from the worksheet and stores all the output data in arrays,which is printed seperately.
 - The original code worked well for less number of data set but when we have large number of dataset like thousands of stocks it takes more time.
 so the refactored code works more efficiently.
-- There are no noticeable disadvantage of the refactored script,it just takes some time to make the original script run correctly with out errors,But its worth since we made an efficeient code. 
+- There are no noticeable disadvantage of the refactored script,it just takes some time to make the original script run correctly with out errors,But its worth since we made an efficient code. 
 
 
 
