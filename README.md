@@ -21,8 +21,8 @@ In order to run the analysis on all the stocks, we need to create an array list 
 Based on the results of the analysis of the stocks categories we can see that 2017 has successful return as 11 out of 12 major stocks has positive returns where as in 2018 we can see only 2 out of the 12 stocks has positive returns.So more people would have been profited in 2017.The below screenshots shows the run time for both the years using original code.
 
 | 2017          | 2018          |
-| ------------- | ------------- |
-| ![image](StockAnalysis_output/AllStocksAnalysis2017.png)           | ![image](StockAnalysis_output/AllStocksAnalysis2018.png)  |
+| ------------- | ------------- |   
+|<img src = "StockAnalysis_output/AllStocksAnalysis2017.png" width = "50">| <img src = "StockAnalysis_output/AllStocksAnalysis2018.png" width = "50"> |
 |![image](StockAnalysis_output/Performance_AllStockAnalysis2017.png))| ![image](StockAnalysis_output/Performance_AllStockAnalysis2018.png)) |
 
 ### Running All the Stocks Analysis using refactor code:
