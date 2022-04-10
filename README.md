@@ -22,6 +22,19 @@ Based on the results of the analysis of the stocks categories we can see that 20
 ![image](https://github.com/fathi129/Stock-analysis/blob/master/StockAnalysis_output/AllStocksAnalysis2017.png)![image](https://github.com/fathi129/Stock-analysis/blob/master/StockAnalysis_output/AllStocksAnalysis2018.png)
 The below screenshots shows the run time for both the years using original code.
 ![image](https://github.com/fathi129/Stock-analysis/blob/master/StockAnalysis_output/Performance_AllStockAnalysis2017.png)![image](https://github.com/fathi129/Stock-analysis/blob/master/StockAnalysis_output/Performance_AllStockAnalysis2018.png)
+### Running All the Stocks Analysis using refactor code:
+In the refactor code we have used three output arrays such as total volume,total starting price,total ending price and we have used tickerindex which runs through the entire worksheet.Here we have used only one for loop to calculate the total volume and returns.so the code takes less memory and it is more efficient.
+![image](https://github.com/fathi129/Stock-analysis/blob/master/StockAnalysis_output/RefactoredCode.png)
+The results of the analysis of the stocks using original code and the refactored are the same but the run time is reduced in the refactored code.
+we can say that the run time is improved 5 times the original code.
+
+| 2017          | 2018          |
+| ------------- | ------------- |
+| ![image](StockAnalysis_output/VBA_Challenge_RefactorCode_2017.png) | ![image](StockAnalysis_output/VBA_Challenge_RefactorCode_2018.png)  |
+|![image](Resources/VBA_Challenge_2017.png)                          | ![image](Resources/VBA_Challenge_2018.png) |
+
+
+
 
 
 
