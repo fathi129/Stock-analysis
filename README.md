@@ -22,8 +22,8 @@ Based on the results of the analysis of the stocks categories we can see that 20
 
 | 2017          | 2018          |
 | ------------- | ------------- |   
-|<img src = "StockAnalysis_output/AllStocksAnalysis2017.png" width = "50">| <img src = "StockAnalysis_output/AllStocksAnalysis2018.png" width = "50"> |
-|![image](StockAnalysis_output/Performance_AllStockAnalysis2017.png))| ![image](StockAnalysis_output/Performance_AllStockAnalysis2018.png)) |
+|<img src = "StockAnalysis_output/AllStocksAnalysis2017.png" width = "100">| <img src = "StockAnalysis_output/AllStocksAnalysis2018.png" width = "100"> |
+|<img src = "StockAnalysis_output/Performance_AllStockAnalysis2017.png" width = "100">| <img src = "StockAnalysis_output/Performance_AllStockAnalysis2017.png" width = "100"> |
 
 ### Running All the Stocks Analysis using refactor code:
 In the refactor code we have used three output arrays such as total volume,total starting price,total ending price and we have used tickerindex which runs through the entire worksheet.Here we have used only one for loop to calculate the total volume and returns.so the code takes less memory and it is more efficient.
